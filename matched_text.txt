@@ -1,0 +1,23 @@
+rt_task: Received 120 bytes
+I (115600) uart_task: Stored 1 bytes so far
+I (115600) uart_task: Stored 101 bytes so far
+I (117580) uart_task: Received 120 bytes
+I (117580) uart_task: Stored 201 bytes so far
+I (119580) uart_task: Received 120 bytes
+I (119580) uart_task: Stored 301 bytes so far
+I (121560) uart_task: Received 120 bytes
+I (121560) uart_task: Stored 401 bytes so far
+I (123560) uart_task: Received 120 bytes
+I (123560) uart_task: Stored 501 bytes so far
+I (125560) uart_task: Received 120 bytes
+I (125560) uart_task: Stored 601 bytes so far
+I (125560) uart_task: Stored 701 bytes so far
+I (127510) uart_task: Received 120 bytes
+I (127510) uart_task: Stored 801 bytes so far
+I (129460) uart_task: Received 120 bytes
+I (129460) uart_task: Stored 901 bytes so far
+I (130390) uart_task: Received 53 bytes
+I (130390) uart_task: Stored 1001 bytes so far
+I (130390) uart_task: End of transmission detected after 1013 bytes
+I (130510) uart_task: Final data size: 1010 bytes
+I (130720)
