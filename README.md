@@ -157,16 +157,12 @@ uart-text-transfer/
 - Check the monitor output for error messages.
 - Ensure proper wiring of the serial connection.
 
----
+# ESP32 UART Echo Example
 
-Made with ❤️ by Manav Singh
-=======
+
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C5 | ESP32-C6 | ESP32-C61 | ESP32-H2 | ESP32-P4 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- | --------- | -------- | -------- | -------- | -------- |
 
-# UART Echo Example
-
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
 
 This example demonstrates how to utilize UART interfaces by echoing back to the sender any data received on
 configured UART.
@@ -237,4 +233,8 @@ disconnecting either `TxD` or `RxD` pin: no characters will appear when typing.
 ## Troubleshooting
 
 You are not supposed to see the echo in the terminal which is used for flashing and monitoring, but in the other UART configured through Kconfig can be used.
->>>>>>> be9a19f (Initial commit - Added UART Text Transfer Project)
+
+---
+
+Made with ❤️ by Manav Singh
+
