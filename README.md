@@ -159,4 +159,4 @@ uart-text-transfer/
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Manav Singh
