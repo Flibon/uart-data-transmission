@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # UART Text Transfer Project
 
 ## Overview
