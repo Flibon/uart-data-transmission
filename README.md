@@ -4,8 +4,6 @@
 
 This project demonstrates a bidirectional UART text transfer system between a PC and an ESP32 microcontroller. The system sends text from the PC to the ESP32 via UART, stores it in memory, and then sends it back to the PC. During transmission, the actual data transfer speed is measured and displayed in bits per second.
 
-## ![UART Text Transfer Diagram](diagram.png)
-
 ## Key Features
 
 - **Bidirectional text transfer over UART at 2400 baud**
